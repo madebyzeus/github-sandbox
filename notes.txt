@@ -3,3 +3,5 @@ This is the beginning of my notes file.
 Adding in some thoughts about Git and GitHub.
 
 Extra line of text here.
+
+This is the fourth paragaph in this entry.
